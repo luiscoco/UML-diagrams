@@ -17,3 +17,5 @@ http://www.plantuml.com/plantuml/uml/VP0_azD03CLhzbDeZYOKT51mnStT9GSb37-6netYrJa
 ## Sample5
 http://www.plantuml.com/plantuml/uml/VL0xJm914ExdLsnY0wM948L2K2ciQMs6c-5kmjxEPH-SQFplBlS04urNNBBVExCA4NrCjOLm4DUWnzg42abRSQNPemqC42LQDkiYob7YoRm8bcVTvXthnlARWnzc75MVOFAtFSS_grLlhDHSUcRN4Hj7FKpe3pkRk4EVi3YKNjD8tj0TyMpWr1Fx0P_nGsOwVEszjZsyizaFNt_CoPjhTJIi-bKpO-Bv_RyrUtLnAnziRkUv0RgxmQAeL0CR6auIJmsRg2OaYGPg3W5BDfYBCP6mAtXvyN1_lj4BPrMXpId_Y9S0RIMPdRo6I_fUd8IAwN5g99Y9qtY1fjt6HMe88u-6FgbdF3jYtqtnV1HkHz4ICZDqNTDWqQITpO-h34BK1c2LvQcstm00
 
+## Sample6
+https://chat.openai.com/share/f285d8c6-8cb3-4782-abb0-69db06db17fe
